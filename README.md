@@ -73,4 +73,4 @@ $ nodemon server.js
 
 Para criar seus áudios, acesso a página [http://localhost:3000/comments](http://localhost:3000/comments).
 
-Após inserir algum texto, pressione o botão "Salvar" então aparecera uma confirmação e clique no link /comment e aguarde até que o serviço processe o áudio.
+Após inserir algum texto, pressione o botão "Salvar" então aparecera uma confirmação e clique no link /comments e aguarde até que o serviço processe o áudio.
