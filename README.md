@@ -51,7 +51,7 @@ Este mesmo arquivo contém as três versões de ambientes development, test e pr
 Agora, configure o token fornecido para o serviço Text to Speech, faça a edição do arquivo .env, na raíz do projeto:
 
 ```
-IBM_URL= url_da_api
+IBM_URL= url_da_sua_API
 IBM_APIKEY= seu_token_aqui
 ```
 
