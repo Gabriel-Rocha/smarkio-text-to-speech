@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "seu_user",
+    "password": "seu_senha",
+    "database": "seu_bd",
+    "host": "seu_host",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": "",
+    "dialect": "",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": "",
+    "dialect": "",
+    "operatorsAliases": false
+  }
+}
